@@ -1,0 +1,11 @@
+/** 
+* Paste one or more documents here
+*/
+{
+  "_id": {
+    "$oid": "62bc9644501fef1716db5767"
+  },
+  "nome":"kayke",
+  "departamento":"database",
+  "empresa":"reinternals"  
+}
